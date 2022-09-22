@@ -1,7 +1,7 @@
+h1 {
+  text-align: center;
+}
 ul {
   list-style: none;
-}
-
-li {
-  display:inline;
+  text-align: center;
 }
